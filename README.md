@@ -8,7 +8,7 @@ disclosures from the different companies active in the market. Some companies th
 ![Bloomberg Environmental Scores](https://github.com/AliAljabri/Ali_Portfolio/blob/main/Images/BB_distribution.png)
 
 
-###For more details, [click here](https://github.com/AliAljabri/NLP-EIP-Project-in-Python)
+### For more details, [click here](https://github.com/AliAljabri/NLP-EIP-Project-in-Python)
 
 ## Project 2: Prediction of Titanic Passngers Survival with Machine Learning: Project Overview 
 The purpose of this project is to examine the predictive performance of different machine learning methods: linear discriminant analysis, logistic regression and random forests on which passenger survived the Titanic shipwreck.
@@ -16,5 +16,5 @@ The data contains so many variables and some of them seems useful in predicting 
 
 ![](https://github.com/AliAljabri/Ali_Portfolio/blob/main/Images/Rplot01.png)
 
-###For more details, [click here](https://github.com/AliAljabri/Machine-Learning-Project-in-R)
+### For more details, [click here](https://github.com/AliAljabri/Machine-Learning-Project-in-R)
 

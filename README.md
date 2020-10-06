@@ -10,6 +10,7 @@ disclosures from the different companies active in the market. Some companies th
 
 ### For more details, [click here](https://github.com/AliAljabri/NLP-EIP-Project-in-Python)
 
+----------------------------
 ## Project 2: Prediction of Titanic Passngers Survival with Machine Learning: Project Overview 
 The purpose of this project is to examine the predictive performance of different machine learning methods: linear discriminant analysis, logistic regression and random forests on which passenger survived the Titanic shipwreck.
 The data contains so many variables and some of them seems useful in predicting survival and some not. Thus, each variable is analyzed and visualized using the training set to see if there is pattern in survival, and then determine to include this variable or not in our models. For example, variables passenger class and sex seem to have a pettern as shown below where passengers on the first class have a higher survival rate from any other class.

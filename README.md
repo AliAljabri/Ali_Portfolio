@@ -11,9 +11,13 @@ disclosures from the different companies active in the market. Some companies th
 ### For more details, [click here](https://github.com/AliAljabri/NLP-EIP-Project-in-Python)
 
 ----------------------------
+## Project2: Time Series Forecasting : Project Overview
 
+This project will use two different time series models Autoregressive Integrated Moving Average (ARIMA) model and Generalized Autoregressive Conditional Heteroskedasticity (GARCH) model in forecasting the returns of the SPY ETF which tracks the of the S&P 500. Time series will be fitted from the end of March 2019 to the end of September 2020 using the aforementioned models which will be used to forecast the short term returns of SPY during the beginning of October 2020. The purpose of forecasting is to find out if there are predictive buying and selling signals.
 
+![SPY Prices](Images/BB_distribution.png)
 
+### For more details, [click here](https://github.com/AliAljabri/Time-Series-Forecasting)
 ----------------------------
 ## Project 3: Prediction of Titanic's Passenger Survival with Machine Learning: Project Overview 
 The purpose of this project is to examine the predictive performance of different machine learning methods: linear discriminant analysis, logistic regression and random forests on which passenger survived the Titanic shipwreck.

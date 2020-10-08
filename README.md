@@ -5,7 +5,7 @@ Data Science Projects
 Climate risk is a financial risk that however is very difficult to quantify and it requires alternative approach. There are no standardized environment-related
 disclosures from the different companies active in the market. Some companies that are taking into account climate risk in their business model, risk management and are reporting past incurred losses, future strategies, possible opportunities etc, while others are still silent about the topic or just mention possible future plans. The purpose of this project is to quantify climate risk for different companies by reconstructing Bloomberg environmental scores which give companies different scores lowest 0 and highest 100 based on their transparency on tackling environmental issues.
 
-![Bloomberg Environmental Scores](Images/Rplot01.png)
+![Bloomberg Environmental Scores](Images/BB_distribution.png)
 
 
 ### For more details, [click here](https://github.com/AliAljabri/NLP-EIP-Project-in-Python)
@@ -15,7 +15,7 @@ disclosures from the different companies active in the market. Some companies th
 
 This project will use two different time series models Autoregressive Integrated Moving Average (ARIMA) model and Generalized Autoregressive Conditional Heteroskedasticity (GARCH) model in forecasting the returns of the SPY ETF which tracks the of the S&P 500. Time series will be fitted from the end of March 2019 to the end of September 2020 using the aforementioned models which will be used to forecast the short term returns of SPY during the beginning of October 2020. The purpose of forecasting is to find out if there are predictive buying and selling signals.
 
-![SPY Prices](Images/BB_distribution.png)
+![SPY Prices](Images/Rplot0.png)
 
 ### For more details, [click here](https://github.com/AliAljabri/Time-Series-Forecasting)
 ----------------------------

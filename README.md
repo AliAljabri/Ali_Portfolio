@@ -8,7 +8,7 @@ disclosures from the different companies active in the market. Some companies th
 ![Bloomberg Environmental Scores](Images/BB_distribution.png)
 
 
-### For more details, [click here](https://github.com/AliAljabri/NLP-EIP-Project-in-Python)
+#### For more details, [click here](https://github.com/AliAljabri/NLP-EIP-Project-in-Python)
 
 ----------------------------
 ## Project2: Time Series Forecasting : Project Overview
@@ -17,7 +17,7 @@ This project will use two different time series models Autoregressive Integrated
 
 ![SPY Prices](Images/Rplot0.png)
 
-### For more details, [click here](https://github.com/AliAljabri/Time-Series-Forecasting)
+#### For more details, [click here](https://github.com/AliAljabri/Time-Series-Forecasting)
 ----------------------------
 ## Project 3: Prediction of Titanic's Passenger Survival with Machine Learning: Project Overview 
 The purpose of this project is to examine the predictive performance of different machine learning methods: linear discriminant analysis, logistic regression and random forests on which passenger survived the Titanic shipwreck.
@@ -26,5 +26,5 @@ The data contains so many variables and some of them seems useful in predicting 
 ![](Images/Rplot01.png)
 
 
-### For more details, [click here](https://github.com/AliAljabri/Machine-Learning-Project-in-R)
+#### For more details, [click here](https://github.com/AliAljabri/Machine-Learning-Project-in-R)
 

@@ -5,7 +5,7 @@ Data Science Projects
 Climate risk is a financial risk that however is very difficult to quantify and it requires alternative approach. There are no standardized environment-related
 disclosures from the different companies active in the market. Some companies that are taking into account climate risk in their business model, risk management and are reporting past incurred losses, future strategies, possible opportunities etc, while others are still silent about the topic or just mention possible future plans. The purpose of this project is to quantify climate risk for different companies by reconstructing Bloomberg environmental scores which give companies different scores lowest 0 and highest 100 based on their transparency on tackling environmental issues.
 
-![Bloomberg Environmental Scores](Images/BB_distribution.png)
+![Bloomberg Environmental Scores](Images/Rplot01.png)
 
 
 ### For more details, [click here](https://github.com/AliAljabri/NLP-EIP-Project-in-Python)
